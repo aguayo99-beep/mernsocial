@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mernsocial/static/css/main.817f5d48.css",
-    "main.js": "/mernsocial/static/js/main.c784ac2a.js",
-    "index.html": "/mernsocial/index.html",
-    "main.817f5d48.css.map": "/mernsocial/static/css/main.817f5d48.css.map",
-    "main.c784ac2a.js.map": "/mernsocial/static/js/main.c784ac2a.js.map"
+    "main.css": "/jobgram/static/css/main.817f5d48.css",
+    "main.js": "/jobgram/static/js/main.2170f1b8.js",
+    "index.html": "/jobgram/index.html",
+    "main.817f5d48.css.map": "/jobgram/static/css/main.817f5d48.css.map",
+    "main.2170f1b8.js.map": "/jobgram/static/js/main.2170f1b8.js.map"
   },
   "entrypoints": [
     "static/css/main.817f5d48.css",
-    "static/js/main.c784ac2a.js"
+    "static/js/main.2170f1b8.js"
   ]
 }
