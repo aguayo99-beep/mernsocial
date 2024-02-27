@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aguayo99-beep/mernsocial/static/css/main.817f5d48.css",
+    "main.js": "/aguayo99-beep/mernsocial/static/js/main.7caacce4.js",
+    "index.html": "/aguayo99-beep/mernsocial/index.html",
+    "main.817f5d48.css.map": "/aguayo99-beep/mernsocial/static/css/main.817f5d48.css.map",
+    "main.7caacce4.js.map": "/aguayo99-beep/mernsocial/static/js/main.7caacce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817f5d48.css",
+    "static/js/main.7caacce4.js"
+  ]
+}
